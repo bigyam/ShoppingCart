@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"InputGroup",
+				"InputGroupAddon"
+			],
+			[
+				"N",
+				"NavbarBrand"
+			],
+			[
+				"SSL",
+				"SSL"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Microsoft Windows [Version 10.0.17134.706]                                                                                                                                \n(c) 2018 Microsoft Corporation. All rights reserved.                                                                                                                      \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm init                                                                                                                                  \nThis utility will walk you through creating a package.json file.                                                                                                          \nIt only covers the most common items, and tries to guess sensible defaults.                                                                                               \n                                                                                                                                                                          \nSee `npm help json` for definitive documentation on these fields                                                                                                          \nand exactly what they do.                                                                                                                                                 \n                                                                                                                                                                          \nUse `npm install <pkg>` afterwards to install a package and                                                                                                               \nsave it as a dependency in the package.json file.                                                                                                                         \n                                                                                                                                                                          \nPress ^C at any time to quit.                                                                                                                                             \npackage name: (shoppingcart)                                                                                                                                              \nversion: (1.0.0)                                                                                                                                                          \ndescription: Shopping Cart                                                                                                                                                \nentry point: (index.js)                                                                                                                                                   \ntest command:                                                                                                                                                             \ngit repository: (https://github.com/bigyam/ShoppingCart.git)                                                                                                              \nkeywords:                                                                                                                                                                 \nauthor: Andrew Ruan                                                                                                                                                       \nlicense: (ISC)                                                                                                                                                            \nAbout to write to C:\\Androo\\Projects\\ShoppingCart\\package.json:                                                                                                           \n                                                                                                                                                                          \n{                                                                                                                                                                         \n  \"name\": \"shoppingcart\",                                                                                                                                                 \n  \"version\": \"1.0.0\",                                                                                                                                                     \n  \"description\": \"Shopping Cart\",                                                                                                                                         \n  \"main\": \"index.js\",                                                                                                                                                     \n  \"scripts\": {                                                                                                                                                            \n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"                                                                                                                 \n  },                                                                                                                                                                      \n  \"repository\": {                                                                                                                                                         \n    \"type\": \"git\",                                                                                                                                                        \n    \"url\": \"git+https://github.com/bigyam/ShoppingCart.git\"                                                                                                               \n  },                                                                                                                                                                      \n  \"author\": \"Andrew Ruan\",                                                                                                                                                \n  \"license\": \"ISC\",                                                                                                                                                       \n  \"bugs\": {                                                                                                                                                               \n    \"url\": \"https://github.com/bigyam/ShoppingCart/issues\"                                                                                                                \n  },                                                                                                                                                                      \n  \"homepage\": \"https://github.com/bigyam/ShoppingCart#readme\"                                                                                                             \n}                                                                                                                                                                         \n                                                                                                                                                                          \n                                                                                                                                                                          \nIs this OK? (yes) yes                                                                                                                                                     \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install create-react-app                                                                                                              \nnpm notice created a lockfile as package-lock.json. You should commit this file.                                                                                          \n+ create-react-app@3.0.1                                                                                                                                                  \nadded 91 packages from 45 contributors and audited 179 packages in 6.456s                                                                                                 \nfound 1 high severity vulnerability                                                                                                                                       \n  run `npm audit fix` to fix them, or `npm audit` for details                                                                                                             \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install create-react-app -g                                                                                                           \nC:\\Users\\Androo\\AppData\\Roaming\\npm\\create-react-app -> C:\\Users\\Androo\\AppData\\Roaming\\npm\\node_modules\\create-react-app\\index.js                                        \n+ create-react-app@3.0.1                                                                                                                                                  \nadded 32 packages from 28 contributors, removed 4 packages and updated 12 packages in 4.674s                                                                              \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install concurrently nodemon --save-dev                                                                                               \n                                                                                                                                                                          \n> nodemon@1.19.0 postinstall C:\\Androo\\Projects\\ShoppingCart\\node_modules\\nodemon                                                                                         \n> node bin/postinstall || exit 0                                                                                                                                          \n                                                                                                                                                                          \nLove nodemon? You can now support the project via the open collective:                                                                                                    \n > https://opencollective.com/nodemon/donate                                                                                                                              \n                                                                                                                                                                          \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\fsevents):                                                                                   \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \n                                                                                                                                                                          \n+ nodemon@1.19.0                                                                                                                                                          \n+ concurrently@4.1.0                                                                                                                                                      \nadded 253 packages from 152 contributors and audited 2518 packages in 14.021s                                                                                             \nfound 1 high severity vulnerability                                                                                                                                       \n  run `npm audit fix` to fix them, or `npm audit` for details                                                                                                             \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>create-react-app                                                                                                                          \nPlease specify the project directory:                                                                                                                                     \n  create-react-app <project-directory>                                                                                                                                    \n                                                                                                                                                                          \nFor example:                                                                                                                                                              \n  create-react-app my-react-app                                                                                                                                           \n                                                                                                                                                                          \nRun create-react-app --help to see all options.                                                                                                                           \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>create-react-app client                                                                                                                   \n                                                                                                                                                                          \nCreating a new React app in C:\\Androo\\Projects\\ShoppingCart\\client.                                                                                                       \n                                                                                                                                                                          \nInstalling packages. This might take a couple of minutes.                                                                                                                 \nInstalling react, react-dom, and react-scripts...                                                                                                                         \n                                                                                                                                                                          \n+ react@16.8.6                                                                                                                                                            \n+ react-dom@16.8.6                                                                                                                                                        \n+ react-scripts@3.0.1                                                                                                                                                     \nadded 1399 packages from 726 contributors and audited 888968 packages in 63.866s                                                                                          \nfound 0 vulnerabilities                                                                                                                                                   \n                                                                                                                                                                          \n                                                                                                                                                                          \nSuccess! Created client at C:\\Androo\\Projects\\ShoppingCart\\client                                                                                                         \nInside that directory, you can run several commands:                                                                                                                      \n                                                                                                                                                                          \n  npm start                                                                                                                                                               \n    Starts the development server.                                                                                                                                        \n                                                                                                                                                                          \n  npm run build                                                                                                                                                           \n    Bundles the app into static files for production.                                                                                                                     \n                                                                                                                                                                          \n  npm test                                                                                                                                                                \n    Starts the test runner.                                                                                                                                               \n                                                                                                                                                                          \n  npm run eject                                                                                                                                                           \n    Removes this tool and copies build dependencies, configuration files                                                                                                  \n    and scripts into the app directory. If you do this, you can’t go back!                                                                                                \n                                                                                                                                                                          \nWe suggest that you begin by typing:                                                                                                                                      \n                                                                                                                                                                          \n  cd client                                                                                                                                                               \n  npm start                                                                                                                                                               \n                                                                                                                                                                          \nHappy hacking!                                                                                                                                                            \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npx                                                                                                                                       \n                                                                                                                                                                          \nERROR: You must supply a command.                                                                                                                                         \n                                                                                                                                                                          \nExecute binaries from npm packages.                                                                                                                                       \n                                                                                                                                                                          \n  npx [options] <command>[@version] [command-arg]...                                                                                                                      \n                                                                                                                                                                          \n  npx [options] [-p|--package <package>]... <command> [command-arg]...                                                                                                    \n                                                                                                                                                                          \n  npx [options] -c '<command-string>'                                                                                                                                     \n                                                                                                                                                                          \n  npx --shell-auto-fallback [shell]                                                                                                                                       \n                                                                                                                                                                          \n                                                                                                                                                                          \nOptions:                                                                                                                                                                  \n  --package, -p          Package to be installed.                       [string]                                                                                          \n  --cache                Location of the npm cache.                     [string]                                                                                          \n  --always-spawn         Always spawn a child process to execute the command.                                                                                             \n                                                                       [boolean]                                                                                          \n  --no-install           Skip installation if a package is missing.    [boolean]                                                                                          \n  --userconfig           Path to user npmrc.                            [string]                                                                                          \n  --call, -c             Execute string as if inside `npm run-script`.  [string]                                                                                          \n  --shell, -s            Shell to execute the command with, if any.                                                                                                       \n                                                       [string] [default: false]                                                                                          \n  --shell-auto-fallback  Generate shell code to use npx as the \"command not                                                                                               \n                         found\" fallback.                                                                                                                                 \n                                   [string] [choices: \"\", \"bash\", \"fish\", \"zsh\"]                                                                                          \n  --ignore-existing      Ignores existing binaries in $PATH, or in the local                                                                                              \n                         project. This forces npx to do a temporary install and                                                                                           \n                         use the latest version.                       [boolean]                                                                                          \n  --quiet, -q            Suppress output from npx itself. Subcommands will not                                                                                            \n                         be affected.                                  [boolean]                                                                                          \n  --npm                  npm binary to use for internal operations.                                                                                                       \n   [string] [default: \"C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js\"]                                                                                          \n  --node-arg, -n         Extra node argument when calling a node binary.[string]                                                                                          \n  --version, -v          Show version number                           [boolean]                                                                                          \n  --help, -h             Show help                                     [boolean]                                                                                          \n                                                                                                                                                                          \nFor the full documentation, see the manual page for npx(1).                                                                                                               \n                                                                                                                                                                          \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm init                                                                                                                                  \nThis utility will walk you through creating a package.json file.                                                                                                          \nIt only covers the most common items, and tries to guess sensible defaults.                                                                                               \n                                                                                                                                                                          \nSee `npm help json` for definitive documentation on these fields                                                                                                          \nand exactly what they do.                                                                                                                                                 \n                                                                                                                                                                          \nUse `npm install <pkg>` afterwards to install a package and                                                                                                               \nsave it as a dependency in the package.json file.                                                                                                                         \n                                                                                                                                                                          \nPress ^C at any time to quit.                                                                                                                                             \npackage name: (shoppingcart)                                                                                                                                              \nversion: (1.0.0)                                                                                                                                                          \ndescription:                                                                                                                                                              \nentry point: (index.js)                                                                                                                                                   \ntest command:                                                                                                                                                             \ngit repository: (https://github.com/bigyam/ShoppingCart.git)                                                                                                              \nkeywords:                                                                                                                                                                 \nauthor: Andrew Ruan                                                                                                                                                       \nlicense: (ISC)                                                                                                                                                            \nAbout to write to C:\\Androo\\Projects\\ShoppingCart\\package.json:                                                                                                           \n                                                                                                                                                                          \n{                                                                                                                                                                         \n  \"name\": \"shoppingcart\",                                                                                                                                                 \n  \"version\": \"1.0.0\",                                                                                                                                                     \n  \"description\": \"\",                                                                                                                                                      \n  \"main\": \"index.js\",                                                                                                                                                     \n  \"scripts\": {                                                                                                                                                            \n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"                                                                                                                 \n  },                                                                                                                                                                      \n  \"repository\": {                                                                                                                                                         \n    \"type\": \"git\",                                                                                                                                                        \n    \"url\": \"git+https://github.com/bigyam/ShoppingCart.git\"                                                                                                               \n  },                                                                                                                                                                      \n  \"author\": \"Andrew Ruan\",                                                                                                                                                \n  \"license\": \"ISC\",                                                                                                                                                       \n  \"bugs\": {                                                                                                                                                               \n    \"url\": \"https://github.com/bigyam/ShoppingCart/issues\"                                                                                                                \n  },                                                                                                                                                                      \n  \"homepage\": \"https://github.com/bigyam/ShoppingCart#readme\"                                                                                                             \n}                                                                                                                                                                         \n                                                                                                                                                                          \n                                                                                                                                                                          \nIs this OK? (yes) yes                                                                                                                                                     \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install create-react-app                                                                                                              \nnpm notice created a lockfile as package-lock.json. You should commit this file.                                                                                          \nnpm WARN shoppingcart@1.0.0 No description                                                                                                                                \n                                                                                                                                                                          \n+ create-react-app@3.0.1                                                                                                                                                  \nadded 91 packages from 45 contributors and audited 179 packages in 6.386s                                                                                                 \nfound 1 high severity vulnerability                                                                                                                                       \n  run `npm audit fix` to fix them, or `npm audit` for details                                                                                                             \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>cd..                                                                                                                                      \n                                                                                                                                                                          \nC:\\Androo\\Projects>create-react-app ShoppingCart                                                                                                                          \nCould not create a project called \"ShoppingCart\" because of npm naming restrictions:                                                                                      \n  *  name can no longer contain capital letters                                                                                                                           \n                                                                                                                                                                          \nC:\\Androo\\Projects>create-react-app shoppingcart                                                                                                                          \n                                                                                                                                                                          \nThe directory shoppingcart contains files that could conflict:                                                                                                            \n                                                                                                                                                                          \n  node_modules                                                                                                                                                            \n  package-lock.json                                                                                                                                                       \n  package.json                                                                                                                                                            \n  shoppingCart.sublime-project                                                                                                                                            \n  shoppingCart.sublime-workspace                                                                                                                                          \n                                                                                                                                                                          \nEither try using a new directory name, or remove the files listed above.                                                                                                  \n                                                                                                                                                                          \nC:\\Androo\\Projects>create-react-app shoppingcart                                                                                                                          \n                                                                                                                                                                          \nThe directory shoppingcart contains files that could conflict:                                                                                                            \n                                                                                                                                                                          \n  shoppingCart.sublime-project                                                                                                                                            \n  shoppingCart.sublime-workspace                                                                                                                                          \n                                                                                                                                                                          \nEither try using a new directory name, or remove the files listed above.                                                                                                  \n                                                                                                                                                                          \nC:\\Androo\\Projects>create-react-app shoppingcart                                                                                                                          \n                                                                                                                                                                          \nCreating a new React app in C:\\Androo\\Projects\\shoppingcart.                                                                                                              \n                                                                                                                                                                          \nInstalling packages. This might take a couple of minutes.                                                                                                                 \nInstalling react, react-dom, and react-scripts...                                                                                                                         \n                                                                                                                                                                          \n+ react-dom@16.8.6                                                                                                                                                        \n+ react@16.8.6                                                                                                                                                            \n+ react-scripts@3.0.1                                                                                                                                                     \nadded 1399 packages from 726 contributors and audited 888968 packages in 61.729s                                                                                          \nfound 0 vulnerabilities                                                                                                                                                   \n                                                                                                                                                                          \n                                                                                                                                                                          \nSuccess! Created shoppingcart at C:\\Androo\\Projects\\shoppingcart                                                                                                          \nInside that directory, you can run several commands:                                                                                                                      \n                                                                                                                                                                          \n  npm start                                                                                                                                                               \n    Starts the development server.                                                                                                                                        \n                                                                                                                                                                          \n  npm run build                                                                                                                                                           \n    Bundles the app into static files for production.                                                                                                                     \n                                                                                                                                                                          \n  npm test                                                                                                                                                                \n    Starts the test runner.                                                                                                                                               \n                                                                                                                                                                          \n  npm run eject                                                                                                                                                           \n    Removes this tool and copies build dependencies, configuration files                                                                                                  \n    and scripts into the app directory. If you do this, you can’t go back!                                                                                                \n                                                                                                                                                                          \nWe suggest that you begin by typing:                                                                                                                                      \n                                                                                                                                                                          \n  cd shoppingcart                                                                                                                                                         \n  npm start                                                                                                                                                               \n                                                                                                                                                                          \nHappy hacking!                                                                                                                                                            \n                                                                                                                                                                          \nC:\\Androo\\Projects>cd Shoppingcart                                                                                                                                        \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install concurrently nodemon --save-dev                                                                                               \n                                                                                                                                                                          \n> nodemon@1.19.0 postinstall C:\\Androo\\Projects\\ShoppingCart\\node_modules\\nodemon                                                                                         \n> node bin/postinstall || exit 0                                                                                                                                          \n                                                                                                                                                                          \nnpm WARN @typescript-eslint/eslint-plugin@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                       \nnpm WARN @typescript-eslint/parser@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                              \nnpm WARN @typescript-eslint/typescript-estree@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                   \nnpm WARN ts-pnp@1.1.2 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                                                 \nnpm WARN tsutils@3.10.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev but none is installed. You must install peer dependencies yo​‌​\nurself.                                                                                                                                                                   \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\jest-haste-map\\node_modules\\fsevents):                                                       \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\chokidar\\node_modules\\fsevents):                                                             \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.0.6 (node_modules\\fsevents):                                                                                   \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.0.6: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \n                                                                                                                                                                          \n+ concurrently@4.1.0                                                                                                                                                      \n+ nodemon@1.19.0                                                                                                                                                          \nadded 63 packages from 30 contributors and audited 891307 packages in 20.071s                                                                                             \nfound 0 vulnerabilities                                                                                                                                                   \n                                                                                                                                                                          \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm start                                                                                                                                 \n                                                                                                                                                                          \n> shoppingcart@0.1.0 start C:\\Androo\\Projects\\ShoppingCart                                                                                                                \n> react-scripts start                                                                                                                                                     \nStarting the development server...                                                                                                                                        \nCompiled successfully!                                                                                                                                                    \n                                                                                                                                                                          \nYou can now view shoppingcart in the browser.                                                                                                                             \n                                                                                                                                                                          \n  Local:            http://localhost:3000/                                                                                                                                \n  On Your Network:  http://192.168.0.16:3000/                                                                                                                             \n                                                                                                                                                                          \nNote that the development build is not optimized.                                                                                                                         \nTo create a production build, use npm run build.                                                                                                                          \nCompiling...                                                                                                                                                              \nCompiled with warnings.                                                                                                                                                   \n                                                                                                                                                                          \n./src/App.js                                                                                                                                                              \n  Line 2:  'logo' is defined but never used  no-unused-vars                                                                                                               \n                                                                                                                                                                          \nSearch for the keywords to learn more about each warning.                                                                                                                 \nTo ignore, add // eslint-disable-next-line to the line before.                                                                                                            \nCompiling...                                                                                                                                                              \nCompiled successfully!                                                                                                                                                    \n                                                                                                                                                                          \nYou can now view shoppingcart in the browser.                                                                                                                             \n                                                                                                                                                                          \n  Local:            http://localhost:3000/                                                                                                                                \n  On Your Network:  http://192.168.0.16:3000/                                                                                                                             \n                                                                                                                                                                          \nNote that the development build is not optimized.                                                                                                                         \nTo create a production build, use npm run build.                                                                                                                          \n                                                                                                                                                                          \nTerminate batch job (Y/N)? y                                                                                                                                              \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>ls                                                                                                                                        \n'ls' is not recognized as an internal or external command,                                                                                                                \noperable program or batch file.                                                                                                                                           \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>dir                                                                                                                                       \n Volume in drive C has no label.                                                                                                                                          \n Volume Serial Number is 7445-517E                                                                                                                                        \n                                                                                                                                                                          \n Directory of C:\\Androo\\Projects\\ShoppingCart                                                                                                                             \n                                                                                                                                                                          \n05/14/2019  12:34 AM    <DIR>          .                                                                                                                                  \n05/14/2019  12:34 AM    <DIR>          ..                                                                                                                                 \n05/14/2019  12:33 AM             1,285 .gitignore                                                                                                                         \n05/14/2019  12:35 AM    <DIR>          node_modules                                                                                                                       \n05/14/2019  12:34 AM           522,572 package-lock.json                                                                                                                  \n05/14/2019  12:34 AM               701 package.json                                                                                                                       \n05/14/2019  12:33 AM    <DIR>          public                                                                                                                             \n10/26/1985  04:15 AM             2,881 README.md                                                                                                                          \n05/14/2019  12:38 AM    <DIR>          src                                                                                                                                \n               4 File(s)        527,439 bytes                                                                                                                             \n               5 Dir(s)  99,364,274,176 bytes free                                                                                                                        \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install axios                                                                                                                         \nnpm WARN @typescript-eslint/eslint-plugin@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                       \nnpm WARN @typescript-eslint/parser@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                              \nnpm WARN @typescript-eslint/typescript-estree@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                   \nnpm WARN ts-pnp@1.1.2 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                                                 \nnpm WARN tsutils@3.10.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev but none is installed. You must install peer dependencies yo​‌​\nurself.                                                                                                                                                                   \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\chokidar\\node_modules\\fsevents):                                                             \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\jest-haste-map\\node_modules\\fsevents):                                                       \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.0.6 (node_modules\\fsevents):                                                                                   \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.0.6: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \n                                                                                                                                                                          \n+ axios@0.18.0                                                                                                                                                            \nadded 2 packages from 2 contributors and audited 891312 packages in 20.912s                                                                                               \nfound 0 vulnerabilities                                                                                                                                                   \n                                                                                                                                                                          \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm install bootstrap                                                                                                                     \nnpm WARN rollback Rolling back readable-stream@2.3.6 failed (this is probably harmless): EPERM: operation not permitted, lstat 'C:\\Androo\\Projects\\ShoppingCart\\node_modul​‌​\nes\\jest-haste-map\\node_modules\\fsevents\\node_modules'                                                                                                                     \nnpm WARN @typescript-eslint/eslint-plugin@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                       \nnpm WARN @typescript-eslint/parser@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                              \nnpm WARN @typescript-eslint/typescript-estree@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                   \nnpm WARN ts-pnp@1.1.2 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                                                 \nnpm WARN tsutils@3.10.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev but none is installed. You must install peer dependencies yo​‌​\nurself.                                                                                                                                                                   \nnpm WARN bootstrap@4.3.1 requires a peer of jquery@1.9.1 - 3 but none is installed. You must install peer dependencies yourself.                                          \nnpm WARN bootstrap@4.3.1 requires a peer of popper.js@^1.14.7 but none is installed. You must install peer dependencies yourself.                                         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\jest-haste-map\\node_modules\\fsevents):                                                       \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\chokidar\\node_modules\\fsevents):                                                             \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.0.6 (node_modules\\fsevents):                                                                                   \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.0.6: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \n                                                                                                                                                                          \n+ bootstrap@4.3.1                                                                                                                                                         \nadded 1 package from 2 contributors and audited 891313 packages in 18.201s                                                                                                \nfound 0 vulnerabilities                                                                                                                                                   \n                                                                                                                                                                          \n                                                                                                                                                                          \nC:\\Androo\\Projects\\ShoppingCart>npm start                                                                                                                                 \n                                                                                                                                                                          \n> shoppingcart@0.1.0 start C:\\Androo\\Projects\\ShoppingCart                                                                                                                \n> react-scripts start                                                                                                                                                     \nStarting the development server...                                                                                                                                        \nCompiled successfully!                                                                                                                                                    \n                                                                                                                                                                          \nYou can now view shoppingcart in the browser.                                                                                                                             \n                                                                                                                                                                          \n  Local:            http://localhost:3000/                                                                                                                                \n  On Your Network:  http://192.168.0.16:3000/                                                                                                                             \n                                                                                                                                                                          \nNote that the development build is not optimized.                                                                                                                         \nTo create a production build, use npm run build.                                                                                                                          \nCompiling...                                                                                                                                                              \nCompiled successfully!                                                                                                                                                    \n                                                                                                                                                                          \nYou can now view shoppingcart in the browser.                                                                                                                             \n                                                                                                                                                                          \n  Local:            http://localhost:3000/                                                                                                                                \n  On Your Network:  http://192.168.0.16:3000/                                                                                                                             \n                                                                                                                                                                          \nNote that the development build is not optimized.                                                                                                                         \nTo create a production build, use npm run build.                                                                                                                          \n                                                                                                                                                                          \nTerminate batch job (Y/N)? y\n\nC:\\Androo\\Projects\\ShoppingCart>npm install classnames\nnpm WARN @typescript-eslint/eslint-plugin@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                       \nnpm WARN @typescript-eslint/parser@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                              \nnpm WARN @typescript-eslint/typescript-estree@1.6.0 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                   \nnpm WARN bootstrap@4.3.1 requires a peer of jquery@1.9.1 - 3 but none is installed. You must install peer dependencies yourself.                                          \nnpm WARN bootstrap@4.3.1 requires a peer of popper.js@^1.14.7 but none is installed. You must install peer dependencies yourself.                                         \nnpm WARN ts-pnp@1.1.2 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.                                                 \nnpm WARN tsutils@3.10.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev but none is installed. You must install peer dependencies yo​‌​\nurself.                                                                                                                                                                   \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\chokidar\\node_modules\\fsevents):                                                             \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\\jest-haste-map\\node_modules\\fsevents):                                                       \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \nnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.0.6 (node_modules\\fsevents):                                                                                   \nnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.0.6: wanted {\"os\":\"darwin\",\"arch\":\"any\"} (current: {\"os\":\"win32\",\"arch\":\"x64\"})         \n                                                                                                                                                                          \n+ classnames@2.2.6                                                                                                                                                        \nadded 1 package from 1 contributor and audited 891314 packages in 17.754s                                                                                                 \nfound 0 vulnerabilities                                                                                                                                                   \n                                                                                                                                                                          \n\nC:\\Androo\\Projects\\ShoppingCart>",
+			"settings":
+			{
+				"buffer_size": 77425,
+				"line_ending": "Windows",
+				"name": " ",
+				"scratch": true
+			}
+		},
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 261,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 780,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"t",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termni",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packager control",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package control remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"powershell",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"power",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Androo/Projects/ShoppingCart",
+		"/C/Androo/Projects/ShoppingCart/src"
+	],
+	"file_history":
+	[
+		"/C/Androo/Projects/NodeReactNotes/package.json",
+		"/C/Androo/Projects/NodeReactNotes/.gitignore",
+		"/C/Androo/Projects/NodeReactNotes/NodeReactNotes.sublime-project",
+		"/C/Androo/Projects/full-stack-react-node-practice/package.json",
+		"/C/Androo/Projects/full-stack-react-node-practice/server/index.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/client/src/index.css",
+		"/C/Androo/Projects/full-stack-react-node-practice/client/package.json",
+		"/C/Androo/Projects/full-stack-react-node-practice/client/src/index.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/client/src/Weather.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/server/api/cities.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/client/src/App.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/client/public/index.html",
+		"/C/Androo/Projects/full-stack-react-node-practice/server/api/weather.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/server/models/weather.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/server/database/index.js",
+		"/C/Androo/Projects/full-stack-react-node-practice/server/models/cities.js",
+		"/C/Program Files/PostgreSQL/11/data/pg_hba.conf",
+		"/C/Androo/Projects/full-stack-react-node-practice/package-lock.json",
+		"/C/Users/Androo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Androo/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Androo/Desktop/main.js",
+		"/Q/GitProjects/amorphaser/src/refs.d.ts",
+		"/C/Androo/Work/Ottawa/2019/I have a combination of more than 4 years worth of",
+		"/C/Androo/Work/Ottawa/2018/work/Fisheries coast guard screenq and answers.txt",
+		"/C/Users/Androo/Desktop/Andrew Ruan - Resume 2019.txt",
+		"/C/Androo/Work/Ottawa/2019/Andrew Ruan - Eclipse Focus Resume 2019.txt",
+		"/C/Users/Androo/Desktop/Skye email/template.html",
+		"/Q/GitProjects/amorphaser/src/scripts/game.ts",
+		"/Q/GitProjects/amorphaser/src/scripts/entity/baseEntity.ts",
+		"/Q/GitProjects/amorphaser/src/scripts/.baseDir.ts",
+		"/Q/GitProjects/amorphaser/public/vendor/phaser/phaser.js",
+		"/Q/GitProjects/amorphaser/public/js/state/preloader.js",
+		"/Q/GitProjects/amorphaser/src/scripts/entity/enemy.ts",
+		"/C/Users/Androo/Desktop/Skye email/tempalte.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"client"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77425,
+								77425
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "C:\\Androo\\Projects\\ShoppingCart",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 823,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"config_name": "Command Prompt",
+								"cwd": "C:\\Androo\\Projects\\ShoppingCart",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": null
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 7614.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7614.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/babel-sublime/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shoppingcart.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
