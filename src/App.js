@@ -7,10 +7,13 @@ import CartPage from "./components/CartPage";
 import PurchasePage from "./components/PurchasePage";
 import SummaryPage from "./components/SummaryPage";
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {Provider} from "react-redux";
+import store from "./store"
 
 class App extends Component {
   render() {
     return (
+      <Provider store = {store}>
       <Router>
         <div className="App">
           <Navbar />
@@ -23,6 +26,7 @@ class App extends Component {
           </Switch>
         </div>
       </Router>
+      </Provider>
     );
   }
 }

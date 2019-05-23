@@ -5,36 +5,28 @@ import {
 	Row,
 	Col
 } from 'reactstrap';
+import { fetchProducts } from '../actions/productActions';
+import { connect } from 'react-redux';
 
 class ProductsPage extends Component {
-	constructor () {
-		super();
-		this.state = {
-			product: [
-				{
-					name: "Product X",
-					company: "Company X",
-					description: "Cool Product X"
-				},
-				{
-					name: "Product Y",
-					company: "Company Y",
-					description: "Cool Product Y"
-				},
-				{
-					name: "Product Z",
-					company: "Company Z",
-					description: "Cool Product Z"
-				}
-			]
-		}
-
+	
+	componentDidMount () {
+		this.props.dispatch(fetchProducts());
 	}
 
 	render () {
-		let productCards = this.state.product.map(product => {
+		const { error, loading, products } = this.props;
+
+		if (error) {
+			//return error stuff
+		}
+
+		if (loading) {
+			//return loading stuff
+		}
+		let productCards = products.map(product => {
 			return (
-				<Col sm="4">
+				<Col sm="4" key={product.id}>
 					<ProductCard product={product} />
 				</Col>
 			)
@@ -47,8 +39,12 @@ class ProductsPage extends Component {
 			</Container>			
 		)
 	}
-
-
 }
 
-export default ProductsPage;
+const mapStateToProps = state => ({
+	products: state.products.items,
+ 	loading: state.products.loading,
+  	error: state.products.error,
+});
+
+export default connect(mapStateToProps)(ProductsPage);
